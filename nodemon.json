@@ -1,0 +1,9 @@
+{
+    "env" :{
+        "MONGO_ATLAS_PW" :"5lJhBry8itKJ259t",
+        "JWT_KEY": "secret",
+        "AWS_IAM_USER_KEY": "AKIARDJSX6CA726GTO4P",
+        "AWS_IAM_USER_SECRET": "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",
+        "AWS_BUCKET_NAME": "dranner"
+    }
+}

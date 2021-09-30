@@ -1,0 +1,18 @@
+// test db
+
+{
+    "env" :{
+        "MONGO_ATLAS_PW" :"node-doc",
+        "JWT_KEY": "secret",
+        "AWS_IAM_USER_KEY": "AKIARDJSX6CA726GTO4P",
+        "AWS_IAM_USER_SECRET": "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",
+        "AWS_BUCKET_NAME": "dranner"
+    }
+}
+
+
+    mongoose.connect('mongodb+srv://node-doc:' + process.env.MONGO_ATLAS_PW + '@name-rest-doc-3rvsc.mongodb.net/test?retryWrites=true&w=majority', {
+
+
+//prod db
+
